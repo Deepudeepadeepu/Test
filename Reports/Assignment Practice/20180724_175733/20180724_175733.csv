@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Assignment Practice,,,2018-07-24 17:57:35,2018-07-24 17:58:41,1m - 6.303s,FAILED
+,,,,,,
+Test Cases/Login/Assignment Practice,,,2018-07-24 17:57:35,2018-07-24 17:58:41,1m - 5.876s,FAILED
+openBrowser,,,2018-07-24 17:57:36,2018-07-24 17:58:39,1m - 3.265s,FAILED

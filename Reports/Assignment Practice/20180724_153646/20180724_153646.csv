@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Assignment Practice,Firefox 59.0,,2018-07-24 15:36:48,2018-07-24 15:37:54,1m - 6.592s,FAILED
+,,,,,,
+Test Cases/Login/Assignment Practice,Firefox 59.0,,2018-07-24 15:36:48,2018-07-24 15:37:54,1m - 6.001s,FAILED
+openBrowser,Firefox 59.0,,2018-07-24 15:36:48,2018-07-24 15:37:15,26.600s,PASSED
+navigateToUrl,Firefox 59.0,,2018-07-24 15:37:15,2018-07-24 15:37:20,4.820s,PASSED
+setText,Firefox 59.0,,2018-07-24 15:37:20,2018-07-24 15:37:20,0.136s,PASSED
+setText,Firefox 59.0,,2018-07-24 15:37:20,2018-07-24 15:37:20,0.058s,PASSED
+click,Firefox 59.0,,2018-07-24 15:37:20,2018-07-24 15:37:21,1.393s,PASSED
+click,Firefox 59.0,,2018-07-24 15:37:21,2018-07-24 15:37:52,30.452s,FAILED

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Day3" time="3" tests="1" failures="0" errors="0">
+   <testsuite name="Day3" tests="1" failures="0" errors="0" time="3" timestamp="2018-07-26 12:44:00" hostname="slk - WSLK1FFTRFW-02" id="Test Suites/Day3">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\slk.WSLK1FFTRFW-02.001\\Katalon Studio\\Demo\\Reports\\Day3\\20180726_124359"/>
+         <property name="logFiles" value="C:\\Users\\slk.WSLK1FFTRFW-02.001\\Katalon Studio\\Demo\\Reports\\Day3\\20180726_124359\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="slk - WSLK1FFTRFW-02"/>
+         <property name="hostAddress" value="10.10.10.11"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.5.0.1"/>
+      </properties>
+      <testcase name="Test Cases/Day3/Keyword" classname="Test Cases/Day3/Keyword" status="PASSED">
+         <system-out><![CDATA[2018-07-26 12:44:00 - [TEST_CASE][PASSED] - Test Cases/Day3/Keyword: Test Cases/Day3/Keyword
+
+2018-07-26 12:44:01 - [TEST_STEP][PASSED] - com.test.automation.Test_Keyword.printmessage: com.test.automation.Test_Keyword.printmessage is PASSED
+
+2018-07-26 12:44:01 - [MESSAGE][PASSED] - com.test.automation.Test_Keyword.printmessage is PASSED
+
+2018-07-26 12:44:01 - [TEST_STEP][PASSED] - com.test.automation.Test_Keyword.printName: com.test.automation.Test_Keyword.printName is PASSED
+
+2018-07-26 12:44:01 - [MESSAGE][PASSED] - com.test.automation.Test_Keyword.printName is PASSED
+
+2018-07-26 12:44:01 - [TEST_STEP][PASSED] - com.test.automation.Test_Keyword.calculateSum: com.test.automation.Test_Keyword.calculateSum is PASSED
+
+2018-07-26 12:44:01 - [MESSAGE][PASSED] - com.test.automation.Test_Keyword.calculateSum is PASSED
+
+2018-07-26 12:44:01 - [TEST_STEP][PASSED] - com.test.automation.Test_Keyword.calculateSum1: com.test.automation.Test_Keyword.calculateSum1 is PASSED
+
+2018-07-26 12:44:01 - [MESSAGE][PASSED] - com.test.automation.Test_Keyword.calculateSum1 is PASSED]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-07-26 12:44:00 - [TEST_SUITE][PASSED] - Day3: Test Cases/Day3/Keyword]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

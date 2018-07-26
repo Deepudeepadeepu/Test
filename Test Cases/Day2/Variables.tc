@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Day2 Learining</description>
+   <name>Variables</name>
+   <tag>test</tag>
+   <comment></comment>
+   <testCaseGuid>91b9acee-fe4c-441c-94ea-0fe3434660bb</testCaseGuid>
+   <variable>
+      <defaultValue>'https://opensource-demo.orangehrmlive.com/'</defaultValue>
+      <description></description>
+      <id>b9c3d4f2-1c32-4b97-8d3f-e3c1eb94a4f3</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>797af3fa-0b2b-4d68-b094-09d7d11162ac</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin123'</defaultValue>
+      <description></description>
+      <id>2b8f4f55-66aa-408d-b393-9b6fc0ba9946</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Parametrization,Firefox 59.0,,2018-07-25 12:25:50,2018-07-25 12:26:27,36.945s,FAILED
+,,,,,,
+Test Cases/Day2/Parametrization,Firefox 59.0,,2018-07-25 12:25:50,2018-07-25 12:26:26,36.415s,FAILED
+openBrowser,Firefox 59.0,,2018-07-25 12:25:50,2018-07-25 12:26:18,27.554s,PASSED
+navigateToUrl,Firefox 59.0,,2018-07-25 12:26:18,2018-07-25 12:26:23,5.375s,PASSED
+click,Firefox 59.0,,2018-07-25 12:26:23,2018-07-25 12:26:24,0.283s,PASSED
+setText,Firefox 59.0,,2018-07-25 12:26:24,2018-07-25 12:26:24,0.070s,PASSED
+setEncryptedText,Firefox 59.0,,2018-07-25 12:26:24,2018-07-25 12:26:24,0.605s,FAILED

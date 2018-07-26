@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Assignment Practice" time="66" tests="0" failures="1" errors="0">
+   <testsuite name="Assignment Practice" tests="0" failures="1" errors="0" time="66" timestamp="2018-07-24 15:36:48" hostname="slk - WSLK1FFTRFW-02" id="Test Suites/Assignment Practice">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\slk.WSLK1FFTRFW-02.001\\Katalon Studio\\Demo\\Reports\\Assignment Practice\\20180724_153646"/>
+         <property name="logFiles" value="C:\\Users\\slk.WSLK1FFTRFW-02.001\\Katalon Studio\\Demo\\Reports\\Assignment Practice\\20180724_153646\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\slk.WSLK1FFTRFW-02.001\\Katalon Studio\\Demo\\Reports\\Assignment Practice\\20180724_153646\\1532426872244.png"/>
+         <property name="hostName" value="slk - WSLK1FFTRFW-02"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.5.0.1"/>
+         <property name="browser" value="Firefox 59.0"/>
+         <property name="hostAddress" value="10.10.10.11"/>
+         <property name="sessionId" value="0e74f19f-3bc5-415f-bb69-7e612c43d389"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/Login/Assignment Practice" classname="Test Cases/Login/Assignment Practice" status="FAILED">
+         <failure type="FAILED" message="Unable to click on object 'Object Repository/Assignment1/Page_OrangeHRM/li_Logout' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Assignment1/Page_OrangeHRM/li_Logout' located by 'By.xpath: //li[(text() = 'Logout' or . = 'Logout')]' not found)"/>
+         <system-out><![CDATA[2018-07-24 15:36:48 - [TEST_CASE][FAILED] - Test Cases/Login/Assignment Practice: Test Cases/Login/Assignment Practice FAILED because (of) Unable to click on object 'Object Repository/Assignment1/Page_OrangeHRM/li_Logout' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Assignment1/Page_OrangeHRM/li_Logout' located by 'By.xpath: //li[(text() = 'Logout' or . = 'Logout')]' not found)
+
+2018-07-24 15:36:48 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-24 15:37:15 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-24 15:37:15 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://opensource-demo.orangehrmlive.com/' successfully
+
+2018-07-24 15:37:20 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/' successfully
+
+2018-07-24 15:37:20 - [TEST_STEP][PASSED] - setText: Text 'Admin' is set on object 'Object Repository/Assignment Practice/Page_OrangeHRM/input_txtUsername'
+
+2018-07-24 15:37:20 - [MESSAGE][PASSED] - Text 'Admin' is set on object 'Object Repository/Assignment Practice/Page_OrangeHRM/input_txtUsername'
+
+2018-07-24 15:37:20 - [TEST_STEP][PASSED] - setText: Text 'Admin123' is set on object 'Object Repository/Assignment Practice/Page_OrangeHRM/input_txtPassword'
+
+2018-07-24 15:37:20 - [MESSAGE][PASSED] - Text 'Admin123' is set on object 'Object Repository/Assignment Practice/Page_OrangeHRM/input_txtPassword'
+
+2018-07-24 15:37:20 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Assignment Practice/Page_OrangeHRM/input_Submit' is clicked on
+
+2018-07-24 15:37:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Assignment Practice/Page_OrangeHRM/input_Submit' is clicked on
+
+2018-07-24 15:37:21 - [TEST_STEP][FAILED] - click: Unable to click on object 'Object Repository/Assignment1/Page_OrangeHRM/li_Logout' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Assignment1/Page_OrangeHRM/li_Logout' located by 'By.xpath: //li[(text() = 'Logout' or . = 'Logout')]' not found)
+
+2018-07-24 15:37:52 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Assignment1/Page_OrangeHRM/li_Logout' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Assignment1/Page_OrangeHRM/li_Logout' located by 'By.xpath: //li[(text() = 'Logout' or . = 'Logout')]' not found)
+[[ATTACHMENT|C:\\Users\\slk.WSLK1FFTRFW-02.001\\Katalon Studio\\Demo\\Reports\\Assignment Practice\\20180724_153646\\1532426872244.png]]]]></system-out>
+         <system-err><![CDATA[2018-07-24 15:36:48 - [TEST_CASE][FAILED] - Test Cases/Login/Assignment Practice: Test Cases/Login/Assignment Practice FAILED because (of) Unable to click on object 'Object Repository/Assignment1/Page_OrangeHRM/li_Logout' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Assignment1/Page_OrangeHRM/li_Logout' located by 'By.xpath: //li[(text() = 'Logout' or . = 'Logout')]' not found)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-07-24 15:36:48 - [TEST_SUITE][FAILED] - Assignment Practice: Test Cases/Login/Assignment Practice FAILED because (of) Unable to click on object 'Object Repository/Assignment1/Page_OrangeHRM/li_Logout' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Assignment1/Page_OrangeHRM/li_Logout' located by 'By.xpath: //li[(text() = 'Logout' or . = 'Logout')]' not found)]]></system-out>
+      <system-err><![CDATA[2018-07-24 15:36:48 - [TEST_SUITE][FAILED] - Assignment Practice: Test Cases/Login/Assignment Practice FAILED because (of) Unable to click on object 'Object Repository/Assignment1/Page_OrangeHRM/li_Logout' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Assignment1/Page_OrangeHRM/li_Logout' located by 'By.xpath: //li[(text() = 'Logout' or . = 'Logout')]' not found)]]></system-err>
+   </testsuite>
+</testsuites>

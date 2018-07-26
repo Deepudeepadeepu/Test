@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Day3,,,2018-07-26 12:44:00,2018-07-26 12:44:03,3.131s,PASSED
+,,,,,,
+Test Cases/Day3/Keyword,,,2018-07-26 12:44:00,2018-07-26 12:44:03,2.600s,PASSED
+com.test.automation.Test_Keyword.printmessage,,,2018-07-26 12:44:01,2018-07-26 12:44:01,0.023s,PASSED
+com.test.automation.Test_Keyword.printName,,,2018-07-26 12:44:01,2018-07-26 12:44:01,0.004s,PASSED
+com.test.automation.Test_Keyword.calculateSum,,,2018-07-26 12:44:01,2018-07-26 12:44:01,0.003s,PASSED
+com.test.automation.Test_Keyword.calculateSum1,,,2018-07-26 12:44:01,2018-07-26 12:44:01,0.003s,PASSED

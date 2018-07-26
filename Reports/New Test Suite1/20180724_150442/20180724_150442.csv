@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+New Test Suite1,,Learning,2018-07-24 15:04:45,2018-07-24 15:05:51,1m - 5.895s,FAILED
+,,,,,,
+Test Cases/Login/Test2,,Learning,2018-07-24 15:04:45,2018-07-24 15:05:51,1m - 5.588s,FAILED
+openBrowser,,,2018-07-24 15:04:46,2018-07-24 15:05:49,1m - 3.032s,FAILED
